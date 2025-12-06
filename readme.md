@@ -1,10 +1,10 @@
 _Minu osa andmeanalüüsi aine grupitööst._
 
-[Žanri ja sarja seos](#žanri-ja-sarja-seos)
-  [Püstitatud hüpoteesid](##püstitatud-hüpoteesid)
-[Sarja-raamatu ja aastaarvu seos](#sarja-ja-ilmumisaasta-seos)
-  [Püstitatud hüpoteesid](##püstitatud-hüpoteesid2)
-[Andmestik](#andmestik)
++[Žanri ja sarja seos](#žanri-ja-sarja-seos)
+++ [Püstitatud hüpoteesid](#püstitatud-hüpoteesid)
++[Sarja-raamatu ja aastaarvu seos](#sarja-ja-ilmumisaasta-seos)
+++[Püstitatud hüpoteesid](##püstitatud-hüpoteesid-1)
++[Andmestik](#andmestik)
 
 # Žanri ja sarja seos
 
