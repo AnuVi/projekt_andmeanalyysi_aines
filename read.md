@@ -1,14 +1,13 @@
 _Minu osa andmeanalüüsi aine grupitööst._
 
-#Žanri ja sarja seos
+# Žanri ja sarja seos
 
 Lugemisel tuleb mõnede žanritega olla ettevaatlik, sest raamatu lõppedes selgub, et tegu oli kõigest sarja esimese osaga ning lugu läheb edasi. Lugemiskogemuse pealt võib öelda, et enim kipub sarju olema, nt fantaasia ja romantika vormides. Elulood aga sarjateostena praktiliselt ei esine. Joonis 8 paistab sama mõtet toetavat. See annab alust uurida, kas žanri ja sarja vahel on statistiliselt oluline seos. 
 
-<img width="689" height="518" alt="image" src="https://github.com/user-attachments/assets/0f7cbd00-6f67-4ee1-9b05-c7a3f49730b4" />
 
 Valimis on kokku nimetatud 139 žanri. 𝜒2 - testi eelduseks on, et igal žanril on vähemalt 5 vaatlust sarja olemasolu ja ka sarja puudumise kohta. Nii jäi testi analüüsimiseks alles 139-st alles 28 žanri.
 
-##Püstitatud hüpoteesid:
+## Püstitatud hüpoteesid:
 
 H0: Žanr ja raamatu sarja kuulumine on sõltumatud tunnused.
 H1: Žanr ja raamatu sarja kuulumine on sõltuvad tunnused.
@@ -30,7 +29,7 @@ Seose tugevuse hindamiseks kasutatud Crameri V andis väärtuseks ~ 0.5, mis vii
 Seega võime öelda, et lugemiskogemus ega ka joonis 8 meie tehtud oletusi ei petnud.
 
 
-#Sarja ja ilmumisaasta seos
+# Sarja ja ilmumisaasta seos
 
 Eelmise sajandivahetuse pöörisel leidis ka kõige kirjanduskaugem inimene ennast aeg-ajalt mõtlemast millegipärast Harry Potterile. Põhjus ilmselt meediakäras, mis iga uue osa saabudes aiva suurenes. Kokku ilmus Potteri sarjas 7 raamatut aastatel 1997-2007. Siit kasvas mõte uurida, kas aja jooksul on seeriate osakaal suurenenud.
 Ilmumisaasta andmestikuga tutvudes selgus, et 150 raamatul antud tunnus puudus või oli vigaselt täidetud. Seega jäi sõelale 4850 raamatut, mille ilmumisaastate jaotus on pika vasakpoolse sabaga (joonis 9), peegeldades ajaliselt uuemate raamatute ülekaalu valimis.
