@@ -6,6 +6,9 @@ _Minu osa andmeanalüüsi aine grupitööst._
    - [Püstitatud hüpoteesid](##püstitatud-hüpoteesid-1)
 - [Andmestik](#andmestik)
 
+
+
+
 # Žanri ja sarja seos
 
 Lugemisel tuleb mõnede žanritega olla ettevaatlik, sest raamatu lõppedes selgub, et tegu oli kõigest sarja esimese osaga ning lugu läheb edasi. Lugemiskogemuse pealt võib öelda, et enim kipub sarju olema, nt fantaasia ja romantika vormides. Elulood aga sarjateostena praktiliselt ei esine. Joonis 8 paistab sama mõtet toetavat. See annab alust uurida, kas žanri ja sarja vahel on statistiliselt oluline seos. 
