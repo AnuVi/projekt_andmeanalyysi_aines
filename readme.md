@@ -1,5 +1,9 @@
 _Minu osa andmeanalüüsi aine grupitööst._
 
+[Žanri ja sarja seos](# Žanri ja sarja seos)
+[Sarja-raamatu ja aastaarvu seos](# Sarja ja ilmumisaasta seos)
+[Andmestik] (### Andmestik)
+
 # Žanri ja sarja seos
 
 Lugemisel tuleb mõnede žanritega olla ettevaatlik, sest raamatu lõppedes selgub, et tegu oli kõigest sarja esimese osaga ning lugu läheb edasi. Lugemiskogemuse pealt võib öelda, et enim kipub sarju olema, nt fantaasia ja romantika vormides. Elulood aga sarjateostena praktiliselt ei esine. Joonis 8 paistab sama mõtet toetavat. See annab alust uurida, kas žanri ja sarja vahel on statistiliselt oluline seos. 
@@ -62,7 +66,8 @@ Kas selle kõige taga on ainult Harry Potter? Raske öelda. Aja jooksul on muutu
 * [Goodreads’i parimate raamatute loetelu 2022. aastast](https://www.kaggle.com/datasets/thedevastator/comprehensive-overview-of-52478-goodreads-best-b)
 * sisaldab 25 tunnust 52 424 raamatu kohta.
   
-Sellest valiti juhuslikult välja 5000 raamatut. Filtrite vektor on failis:
+#### id-de vektor
+Sellest valiti juhuslikult välja 5000 raamatut, [filtrite vektor](https://github.com/AnuVi/projekt_andmeanalyysi_aines/blob/main/filter.csv).
 
-Analüüsimiseks kasutati R-i: 
-
+#### R-i fail
+Analüüsiks ja graafikute joonistamiseks kasutati R-i, [fail](https://github.com/AnuVi/projekt_andmeanalyysi_aines/blob/main/raamatud_sari_%C5%BEanr_aasta.R).
