@@ -59,7 +59,7 @@ Kas selle kõige taga on ainult Harry Potter? Raske öelda. Aja jooksul on muutu
 
 
 ### Andmestik: 
-* 2022. aasta [Goodreads’i parimate raamatute loetelu]((https://www.kaggle.com/datasets/thedevastator/comprehensive-overview-of-52478-goodreads-best-b)
+* [Goodreads’i parimate raamatute loetelu 2022. aastast](https://www.kaggle.com/datasets/thedevastator/comprehensive-overview-of-52478-goodreads-best-b)
 * sisaldab 25 tunnust 52 424 raamatu kohta.
   
 Sellest valiti juhuslikult välja 5000 raamatut. Filtrite vektor on failis:
