@@ -1,8 +1,8 @@
 _Minu osa andmeanalüüsi aine grupitööst._
 
-[Žanri ja sarja seos](# Žanri ja sarja seos)
-[Sarja-raamatu ja aastaarvu seos](# Sarja ja ilmumisaasta seos)
-[Andmestik] (### Andmestik)
+*[Žanri ja sarja seos](# Žanri ja sarja seos)
+*[Sarja-raamatu ja aastaarvu seos](# Sarja ja ilmumisaasta seos)
+*[Andmestik] (### Andmestik)
 
 # Žanri ja sarja seos
 
