@@ -89,11 +89,11 @@ Is Harry Potter the only thing behind all of this? Hard to say. Over time, the d
 changed (traditional publishing vs. self-publishing). More diverse printing and marketing options allow for budget flexibility. This, in turn, has increased the number of people with the desire to express themselves through writing.
 
 ### Dataset:
-* [The Goodreads Best Books list of 2022 from Kaggle] (https://www.kaggle.com/datasets/thedevastator/comprehensive-overview-of-52478-goodreads-best-b)
+* [The Goodreads Best Books list of 2022 from Kaggle](https://www.kaggle.com/datasets/thedevastator/comprehensive-overview-of-52478-goodreads-best-b)
 * includes 25 attributes for 52,424 books.
 
 #### ID vector
-From this, 5000 books were randomly selected, [filter vector(https://github.com/AnuVi/projekt_andmeanalyysi_aines/blob/main/filter.csv).
+From this, 5000 books were randomly selected, [filter vector](https://github.com/AnuVi/projekt_andmeanalyysi_aines/blob/main/filter.csv).
 
 #### R file
 R was used for analysis and creating graphs, [file](https://github.com/AnuVi/projekt_andmeanalyysi_aines/blob/main/raamatud_sari_%C5%BEanr_aasta.R).
