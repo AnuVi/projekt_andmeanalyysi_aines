@@ -83,6 +83,8 @@ is statistically significant. Therefore, we reject H₀ and accept the alternati
 The proportion of books that are part of a series is 38% before 2009 and 48% after 2009, 
 indicating an increase of about 11%. This is illustrated in Figure 9.
 
+<img width="671" height="564" alt="image" src="https://github.com/user-attachments/assets/90c10201-371f-4a76-9fc3-301cb6105c3f" />
+
 Is Harry Potter the only thing behind all of this? Hard to say. Over time, the dynamics of publishing have 
 changed (traditional publishing vs. self-publishing). More diverse printing and marketing options allow for budget flexibility. This, in turn, has increased the number of people with the desire to express themselves through writing.
 
