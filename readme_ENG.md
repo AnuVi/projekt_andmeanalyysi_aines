@@ -1,12 +1,14 @@
-_My part of the group project for the Data Analysis Course and the English translation was made with the help of AI. Also pics are in Estonian at the moment_
+_My part of the group project for the Data Analysis Course. 
+The English translation was made with the help of AI. 
+Pics/tables are in Estonian at the moment._
 
--[The relationship between genre and series]
+- [The relationship between genre and series]
   - [Hypotheses]
 
--[The relationship between series/books and year]
-  -[Hypotheses]
+- [The relationship between series/books and year]
+  - [Hypotheses]
 
--[Dataset]
+- [Dataset]
 
 # The Relationship Between Genre and Series
 
@@ -29,7 +31,7 @@ H₀: Genre and whether a book belongs to a series are independent variables.
 
 H₁: Genre and whether a book belongs to a series are dependent variables.
 
-** Results of the χ² test:**
+**Results of the χ² test:**
 
 The test statistic is very large (937.18), indicating that the observed frequencies differ substantially from
 the expected frequencies.
@@ -62,6 +64,9 @@ The most recent publication years in the dataset are from 2021. It’s worth not
 
 To define before and after the year, we chose the median year of 2009, as it divides the dataset exactly in half. 
 Books published in 2009 (219) joined the group of books published after 2009.
+
+<img width="642" height="235" alt="image" src="https://github.com/user-attachments/assets/4a73fe70-3361-41cd-95c2-2fed8c21df02" />
+
 
 ## Hypotheses:
 
