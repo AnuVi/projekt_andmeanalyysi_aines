@@ -3,10 +3,10 @@ The English translation was made with the help of AI.
 Pics/tables are in Estonian at the moment._
 
 - [Genre and Series](#genre-and-series)
-  - [Hypotheses](#hypotheses)
+  - [Hypotheses (1)](#hypotheses-1)
 
 - [Series and year](#series-and-year)
-  - [Hypotheses](#hypotheses)
+  - [Hypotheses (2)](#hypotheses-2)
 
 - [Dataset](#dataset)
 
@@ -25,7 +25,7 @@ There are 139 genres in total in the sample. A prerequisite for the χ² (chi-sq
 genre must have at least 5 observations for both the presence and absence of a series. Therefore, only 28 genres out
 of the 139 remained for the analysis.
 
-## Hypotheses:
+## Hypotheses (2):
 
 H₀: Genre and whether a book belongs to a series are independent variables.
 
@@ -68,7 +68,7 @@ Books published in 2009 (219) joined the group of books published after 2009.
 <img width="642" height="235" alt="image" src="https://github.com/user-attachments/assets/4a73fe70-3361-41cd-95c2-2fed8c21df02" />
 
 
-## Hypotheses:
+## Hypotheses (2):
 
 H₀: 𝑝<sub>before 2009</sub>  ≥ 𝑝<sub>after 2009</sub>  The proportion of books belonging to a series has not increased over time.
 
