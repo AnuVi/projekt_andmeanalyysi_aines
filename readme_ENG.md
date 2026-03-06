@@ -2,15 +2,15 @@ _My part of the group project for the Data Analysis Course.
 The English translation was made with the help of AI. 
 Pics/tables are in Estonian at the moment._
 
-- [The relationship between genre and series]
+- [Genre and Series](#genre-and-series)
   - [Hypotheses]
 
-- [The relationship between series/books and year]
+- [Series and year](#series-and-year)
   - [Hypotheses]
 
 - [Dataset](#dataset)
 
-# The Relationship Between Genre and Series
+# Genre and Series
 
 When reading, one needs to be careful with some genres, because by the end of the book it may turn out that it was only the 
 first part of a series and the story continues. Based on reading experience, series tend to appear most often in genres such
@@ -43,12 +43,12 @@ there is a dependency between genre and whether a book belongs to a series.
 To evaluate the strength of the relationship, Cramér’s V was used, which produced a value of ~0.5, indicating a 
 moderately strong association between the two variables.
 
-Therefore, we can conclude that our reading experience and Figure 8 did not mislead our assumptions.
+Therefore, we can conclude that reacher's reading experience and Figure 8 did not mislead our assumptions.
 
-## Relationship Between Series and Publication Year
+## Series and Publication Year
 
 Around the turn of the previous century, even people far removed from literature occasionally found themselves 
-thinking about Harry Potter. The reason was likely the media buzz that kept growing with the release of each new installment.
+thinking about Harry Potter. The reason was caused by the media buzz that kept growing with the release of each new book.
 In total, 7 books in the series were published between 1997 and 2007. This inspired the idea to investigate whether the proportion of books that are part of a series has increased over time.
 
 When examining the publication year dataset, it became apparent that 150 books were missing this attribute or had 
