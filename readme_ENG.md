@@ -3,10 +3,10 @@ The English translation was made with the help of AI.
 Pics/tables are in Estonian at the moment._
 
 - [Genre and Series](#genre-and-series)
-  - [Hypotheses]
+  - [Hypotheses](#hypotheses)
 
 - [Series and year](#series-and-year)
-  - [Hypotheses]
+  - [Hypotheses](#hypotheses)
 
 - [Dataset](#dataset)
 
