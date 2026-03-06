@@ -70,7 +70,7 @@ Books published in 2009 (219) joined the group of books published after 2009.
 
 ## Hypotheses:
 
-H₀: 𝑝 before 2009 ≥ 𝑝 after 2009  The proportion of books belonging to a series has not increased over time.
+H₀: 𝑝 <sub>before</sub> 2009 ≥ 𝑝<sub>after</sub> 2009  The proportion of books belonging to a series has not increased over time.
 
 H₁: 𝑝 before 2009 < 𝑝 after 2009   The proportion of books belonging to a series has increased over time.
 
