@@ -25,7 +25,7 @@ There are 139 genres in total in the sample. A prerequisite for the χ² (chi-sq
 genre must have at least 5 observations for both the presence and absence of a series. Therefore, only 28 genres out
 of the 139 remained for the analysis.
 
-## Hypotheses (2):
+## Hypotheses (1):
 
 H₀: Genre and whether a book belongs to a series are independent variables.
 
