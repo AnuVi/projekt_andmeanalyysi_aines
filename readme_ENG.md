@@ -17,8 +17,9 @@ first part of a series and the story continues. Based on reading experience, ser
 as fantasy and romance. Biographies, however, practically never occur as series. 
 Figure 8 appears to support the same idea. This provides a basis to investigate whether there is a statistically
 significant relationship between genre and series.
+<img width="497" height="318" alt="by_genre_series" src="https://github.com/user-attachments/assets/1c0c9342-6186-4041-95f4-a87fb4da972c" />
+<em>Figure 1. TOP 5 genres in series<em>
 
-<img width="689" height="518" alt="image" src="https://github.com/user-attachments/assets/0f7cbd00-6f67-4ee1-9b05-c7a3f49730b4" />
 
 
 There are 139 genres in total in the sample. A prerequisite for the χ² (chi-square) test is that each
@@ -54,10 +55,11 @@ In total, 7 books in the series were published between 1997 and 2007. This inspi
 When examining the publication year dataset, it became apparent that 150 books were missing this attribute or had 
 it filled in incorrectly. Therefore, 4,850 books remained in the sample.
 
-The distribution of publication years has a long left tail (Figure 9), reflecting the dominance of more 
+The distribution of publication years has a long left tail (Figure 2), reflecting the dominance of more 
 recently published books in the sample.
 
-<img width="655" height="468" alt="image" src="https://github.com/user-attachments/assets/ed360f93-1c02-41c2-9425-b90d25bcf160" />
+<img width="497" height="318" alt="year_books" src="https://github.com/user-attachments/assets/5ab84b98-ba2a-464e-bec0-074819f5e9b3" />
+<em>Figure 2. The distribution of Publication Years</em>
 
 The oldest book in the dataset dates back to 1904. Indeed, Holmes & Watson were already solving crimes back then.
 The most recent publication years in the dataset are from 2021. It’s worth noting that the dataset was compiled in 2022.
@@ -81,9 +83,10 @@ The p-value is 7.23 × 10⁻¹⁶, which is less than the significance level α,
 is statistically significant. Therefore, we reject H₀ and accept the alternative hypothesis: the proportion of books belonging to a series has increased over time.
 
 The proportion of books that are part of a series is 38% before 2009 and 48% after 2009, 
-indicating an increase of about 11%. This is illustrated in Figure 9.
+indicating an increase of about 11%. This is illustrated in Figure 2.
 
-<img width="671" height="564" alt="image" src="https://github.com/user-attachments/assets/90c10201-371f-4a76-9fc3-301cb6105c3f" />
+<img width="497" height="318" alt="share_of_books" src="https://github.com/user-attachments/assets/c6423de5-4c02-46fb-b78a-9df58cd79225" />
+
 
 Is Harry Potter the only thing behind all of this? Hard to say. Over time, the dynamics of publishing have 
 changed (traditional publishing vs. self-publishing). More diverse printing and marketing options allow for budget flexibility. This, in turn, has increased the number of people with the desire to express themselves through writing.
