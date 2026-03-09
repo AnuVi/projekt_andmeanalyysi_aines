@@ -66,7 +66,7 @@ The most recent publication years in the dataset are from 2021. It’s worth not
 
 To define before and after the year, we chose the median year of 2009, as it divides the dataset exactly in half. 
 Books published in 2009 (219) joined the group of books published after 2009.
-<p><em>Table 1. Books based on year and series</em>
+<p><em>Table 1. Books based on year and series</em><br>
 <img width="532" height="131" alt="Kuvatõmmis 2026-03-09 111108" src="https://github.com/user-attachments/assets/391b5937-474b-4576-8478-f2997d5d670b" /></p>
 
 
