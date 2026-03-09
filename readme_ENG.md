@@ -17,8 +17,8 @@ first part of a series and the story continues. Based on reading experience, ser
 as fantasy and romance. Biographies, however, practically never occur as series. 
 Figure 8 appears to support the same idea. This provides a basis to investigate whether there is a statistically
 significant relationship between genre and series.
-<img width="497" height="318" alt="by_genre_series" src="https://github.com/user-attachments/assets/1c0c9342-6186-4041-95f4-a87fb4da972c" />
-<em>Figure 1. TOP 5 genres in series<em>
+<p><img width="497" height="318" alt="by_genre_series" src="https://github.com/user-attachments/assets/1c0c9342-6186-4041-95f4-a87fb4da972c" /><br>
+<em>Figure 1. TOP 5 genres in series</em></p>
 
 
 
