@@ -58,16 +58,17 @@ it filled in incorrectly. Therefore, 4,850 books remained in the sample.
 The distribution of publication years has a long left tail (Figure 2), reflecting the dominance of more 
 recently published books in the sample.
 
-<img width="497" height="318" alt="year_books" src="https://github.com/user-attachments/assets/5ab84b98-ba2a-464e-bec0-074819f5e9b3" />
-<em>Figure 2. The distribution of Publication Years</em>
+<p><img width="497" height="318" alt="year_books" src="https://github.com/user-attachments/assets/5ab84b98-ba2a-464e-bec0-074819f5e9b3" /><br>
+<em>Figure 2. The distribution of Publication Years</em></p>
 
 The oldest book in the dataset dates back to 1904. Indeed, Holmes & Watson were already solving crimes back then.
 The most recent publication years in the dataset are from 2021. It’s worth noting that the dataset was compiled in 2022.
 
 To define before and after the year, we chose the median year of 2009, as it divides the dataset exactly in half. 
 Books published in 2009 (219) joined the group of books published after 2009.
+<p><em>Table 1. Books based on year and series</em>
+<img width="532" height="131" alt="Kuvatõmmis 2026-03-09 111108" src="https://github.com/user-attachments/assets/391b5937-474b-4576-8478-f2997d5d670b" /></p>
 
-<img width="642" height="235" alt="image" src="https://github.com/user-attachments/assets/4a73fe70-3361-41cd-95c2-2fed8c21df02" />
 
 
 ## Hypotheses (2):
